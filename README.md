@@ -94,33 +94,43 @@ Front-end Architecture
 
 ## 04 / SELECTED WORK
 
-### `01` — Personal Portfolio
+### `01` — Socilly
+
+A social-focused web project exploring modern interface design, user interactions, and front-end implementation.
+
+**Focus:** `UI/UX` `Front-end` `Responsive Design`
+
+→ [View Repository](https://github.com/Five-o-One/Socially)
+
+---
+
+### `02` — Thinkboard
+
+A productivity-focused project built around organizing ideas and content through an interactive interface.
+
+**Focus:** `React` `UI/UX` `Web Application`
+
+→ [View Repository](https://github.com/Bukalati/Thinkboard-FrontEnd)
+
+---
+
+### `03` — Taskyrox
+
+A task management project focused on building a clean and practical interface for organizing tasks and workflows.
+
+**Focus:** `Front-end` `UI/UX` `Product Design`
+
+→ [View Repository](https://github.com/Five-o-One/Taskyrox)
+
+---
+
+### `04` — Personal Portfolio
 
 A scroll-focused personal portfolio designed and developed from scratch with Next.js.
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
-→ [View Repository](#)
-
----
-
-### `02` — Socially
-
-A responsive admin dashboard built with React and TypeScript, focused on reusable components, routing, forms, and API-driven interfaces.
-
-**Stack:** `React` `TypeScript` `Tailwind CSS` `React Router`
-
-→ [View Repository](#https://github.com/Five-o-One/Socially)
-
----
-
-### `03` — ThinkBoard
-
-A fintech product focused on credit scoring and loan discovery, with an emphasis on product experience and conversion-oriented flows.
-
-**Focus:** `UI/UX` `Product Design` `PWA` `Fintech`
-
-→ [View Repository](#https://github.com/Bukalati/Thinkboard-FrontEnd)
+→ [View Repository](https://github.com/Bukalati/portfolio)
 
 ---
 
@@ -140,7 +150,7 @@ A fintech product focused on credit scoring and loan discovery, with an emphasis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bukalati&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Bukalati&show_icons=true&hide_border=true&rank_icon=github" height="170" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bukalati&hide_border=true" height="170" />
 
@@ -148,17 +158,7 @@ A fintech product focused on credit scoring and loan discovery, with an emphasis
 
 ---
 
-## 07 / CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bukalati&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 08 / A LITTLE MORE
+## 07 / A LITTLE MORE
 
 Outside of code and design, I'm interested in:
 
